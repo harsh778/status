@@ -1,25 +1,21 @@
-# Change these first
-owner: harsh778 # Your GitHub username
-repo: harshsinghal.me-status # Your Github repository name
+owner: harsh778 
+repo: harshsinghal.me-status 
 
-# Add your sites here
 sites:
   - name: Harsh Vardhan Singhal
     url: https://harshsinghal.me
 
 status-website:
-  # Add your custom domain below, or remove the next line if you don't have a domain
-  # Uncomment the following line if you don't have a custom domain and add your repo name
+
   baseUrl: /harshsinghal.me-status
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Status Keeper for harshsinghal.me
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [Github repository](https://github.com/koj-co/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/koj-co/upptime)
+  introMessage: This is a status page which uses **real-time** data from our [Github repository](https://github.com/koj-co/upptime).
   navbar:
     - title: Status
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
+    - title: Personal Website
+      href: https://harshsinghal.me
