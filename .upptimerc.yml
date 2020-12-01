@@ -12,7 +12,7 @@ status-website:
   favicon: https://harshsinghal.me/Images/Favicons/favicon-32x32.png
   name: Status Keeper for harshsinghal.me
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a webpage which shows **real-time** data from this [Github repository](https://github.com/harsh778/harshsinghal.me-status) in order to display the live status of my [Personal Website](https://harshsinghal.me).
+  introMessage: This is a webpage which fetches **real-time** data from this [Github repository](https://github.com/harsh778/harshsinghal.me-status) in order to display the live status of my [Personal Website](https://harshsinghal.me).
   navbar:
     - title: Status
       href: /
