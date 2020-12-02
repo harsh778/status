@@ -17,5 +17,11 @@ With [Upptime](https://upptime.js.org), you can get your own unlimited and free 
 | URL                                              | Status | History                                                                                                                          | Response Time                                                                              | Uptime                                                                                                                                                                                                                                                                     |
 | ------------------------------------------------ | ------ | -------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [Harsh Vardhan Singhal](https://harshsinghal.me) | 🟩 Up  | [harsh-vardhan-singhal.yml](https://github.com/harsh778/harshsinghal.me-status/commits/master/history/harsh-vardhan-singhal.yml) | <img alt="Response time graph" src="./graphs/harsh-vardhan-singhal.png" height="20"> 116ms | [![Uptime 100.00%](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fharsh778%2Fharshsinghal.me-status%2Fmaster%2Fapi%2Fharsh-vardhan-singhal%2Fuptime.json)](https://harsh778.github.io/harshsinghal.me-status/history/harsh-vardhan-singhal) |
+<!--end: status pages-->
 
-<!--end: status pages-->undefined
+[**Visit the status website →**](https://harshsinghal.me/harshsinghal.me-status)
+
+## 📄 License
+
+- Code: [MIT](./LICENSE)
+- Data in the `./history` directory: [Open Database License](https://opendatacommons.org/licenses/odbl/1-0/)
