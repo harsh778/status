@@ -4,6 +4,9 @@ repo: harshsinghal.me-status
 sites:
   - name: Harsh Vardhan Singhal
     url: https://harshsinghal.me
+    
+  - name: V1 of Personal Website
+    url: https://harsh.cf
 
 status-website:
 
