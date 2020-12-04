@@ -9,10 +9,26 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 128,
-    "timeDay": 180,
-    "timeWeek": 128,
-    "timeMonth": 128,
-    "timeYear": 128
+    "time": 133,
+    "timeDay": 182,
+    "timeWeek": 133,
+    "timeMonth": 133,
+    "timeYear": 133
+  },
+  {
+    "name": "V1 of Personal Website",
+    "url": "https://harsh.cf",
+    "slug": "v1-of-personal-website",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 487,
+    "timeDay": 487,
+    "timeWeek": 487,
+    "timeMonth": 487,
+    "timeYear": 487
   }
 ]
