@@ -19,16 +19,16 @@
     "name": "V1 of Personal Website",
     "url": "https://harsh.cf",
     "slug": "v1-of-personal-website",
-    "status": "up",
-    "uptime": "96.97%",
+    "status": "down",
+    "uptime": "97.40%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "96.97%",
-    "uptimeMonth": "96.97%",
-    "uptimeYear": "96.97%",
-    "time": 415,
-    "timeDay": 353,
-    "timeWeek": 415,
-    "timeMonth": 415,
-    "timeYear": 415
+    "uptimeWeek": "97.40%",
+    "uptimeMonth": "97.40%",
+    "uptimeYear": "97.40%",
+    "time": 414,
+    "timeDay": 382,
+    "timeWeek": 414,
+    "timeMonth": 414,
+    "timeYear": 414
   }
 ]
