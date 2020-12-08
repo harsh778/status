@@ -2,6 +2,7 @@
   {
     "name": "Harsh Vardhan Singhal",
     "url": "https://harshsinghal.me",
+    "icon": "https://favicons.githubusercontent.com/harshsinghal.me",
     "slug": "harsh-vardhan-singhal",
     "status": "up",
     "uptime": "100.00%",
@@ -9,26 +10,32 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 129,
-    "timeDay": 109,
-    "timeWeek": 129,
-    "timeMonth": 129,
-    "timeYear": 129
+    "time": 128,
+    "timeDay": 115,
+    "timeWeek": 130,
+    "timeMonth": 128,
+    "timeYear": 128,
+    "dailyMinutesDown": {}
   },
   {
     "name": "V1 of Personal Website",
     "url": "https://harsh.cf",
+    "icon": "https://favicons.githubusercontent.com/harsh.cf",
     "slug": "v1-of-personal-website",
     "status": "up",
-    "uptime": "97.65%",
-    "uptimeDay": "98.85%",
-    "uptimeWeek": "97.65%",
-    "uptimeMonth": "97.65%",
-    "uptimeYear": "97.65%",
-    "time": 411,
-    "timeDay": 406,
-    "timeWeek": 411,
-    "timeMonth": 411,
-    "timeYear": 411
+    "uptime": "98.27%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.27%",
+    "uptimeMonth": "98.27%",
+    "uptimeYear": "98.27%",
+    "time": 410,
+    "timeDay": 403,
+    "timeWeek": 410,
+    "timeMonth": 410,
+    "timeYear": 410,
+    "dailyMinutesDown": {
+      "2020-12-06": 17,
+      "2020-12-04": 77
+    }
   }
 ]
