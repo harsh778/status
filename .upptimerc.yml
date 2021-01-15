@@ -7,6 +7,9 @@ sites:
     
   - name: V1 of Personal Website
     url: https://harsh.cf
+    
+  - name: The Programmer's Hangout
+    url: https://theprogrammershangout.com
 
 status-website:
 
