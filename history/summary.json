@@ -44,19 +44,19 @@
     "url": "https://theprogrammershangout.com",
     "icon": "https://favicons.githubusercontent.com/theprogrammershangout.com",
     "slug": "the-programmer-s-hangout",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 395,
-    "timeDay": 383,
-    "timeWeek": 418,
-    "timeMonth": 395,
-    "timeYear": 395,
+    "status": "up",
+    "uptime": "99.27%",
+    "uptimeDay": "93.13%",
+    "uptimeWeek": "99.02%",
+    "uptimeMonth": "99.27%",
+    "uptimeYear": "99.27%",
+    "time": 1534,
+    "timeDay": 6652,
+    "timeWeek": 1981,
+    "timeMonth": 1534,
+    "timeYear": 1534,
     "dailyMinutesDown": {
-      "2021-01-24": 0
+      "2021-01-24": 99
     }
   }
 ]
