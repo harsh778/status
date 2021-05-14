@@ -44,9 +44,9 @@
     "url": "https://theprogrammershangout.com",
     "icon": "https://favicons.githubusercontent.com/theprogrammershangout.com",
     "slug": "the-programmer-s-hangout",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
@@ -56,6 +56,7 @@
     "timeMonth": 260,
     "timeYear": 457,
     "dailyMinutesDown": {
+      "2021-05-14": 0,
       "2021-01-25": 2,
       "2021-01-24": 122
     }
