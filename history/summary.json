@@ -4,7 +4,7 @@
     "url": "https://harshsinghal.me",
     "icon": "https://favicons.githubusercontent.com/harshsinghal.me",
     "slug": "harsh-vardhan-singhal",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 140,
     "timeMonth": 114,
     "timeYear": 136,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-05-18": 0
+    }
   },
   {
     "name": "V1 of Personal Website",
