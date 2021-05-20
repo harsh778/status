@@ -1,9 +1,9 @@
 owner: harsh778 
-repo: harshsinghal.me-status 
+repo: status
 
 sites:
   - name: Harsh Vardhan Singhal
-    url: https://harshsinghal.me
+    url: https://harsh778.github.io
     
   - name: V1 of Personal Website
     url: https://harsh.cf
@@ -13,10 +13,10 @@ sites:
 
 status-website:
 
-  baseUrl: /harshsinghal.me-status
-  logoUrl: https://harshsinghal.me/Images/Favicons/android-chrome-192x192.png
-  favicon: https://harshsinghal.me/Images/Favicons/favicon-32x32.png
-  name: Status Keeper for harshsinghal.me
+  baseUrl: /status
+  logoUrl: https://harsh778.github.io/Images/Favicons/android-chrome-192x192.png
+  favicon: https://harsh778.github.io/Images/Favicons/favicon-32x32.png
+  name: Status Keeper for my personal website
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
   introMessage: This is a webpage which fetches **real-time** data from this [Github repository](https://github.com/harsh778/harshsinghal.me-status) in order to display the live status of my [Personal Website](https://harshsinghal.me).
   navbar:
@@ -25,4 +25,4 @@ status-website:
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
     - title: Personal Website
-      href: https://harshsinghal.me
+      href: https://harsh778.github.io
