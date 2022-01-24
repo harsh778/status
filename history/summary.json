@@ -11,7 +11,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.51%",
     "time": 106,
-    "timeDay": 130,
+    "timeDay": 58,
     "timeWeek": 104,
     "timeMonth": 91,
     "timeYear": 99,
@@ -28,18 +28,19 @@
     "icon": "https://favicons.githubusercontent.com/harsh.cf",
     "slug": "v1-of-personal-website",
     "status": "down",
-    "uptime": "82.69%",
+    "uptime": "82.49%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "80.35%",
+    "uptimeYear": "80.08%",
     "time": 531,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 544,
+    "timeYear": 545,
     "dailyMinutesDown": {
-      "2022-01-23": 25,
+      "2022-01-24": 24,
+      "2022-01-23": 1440,
       "2022-01-22": 1440,
       "2022-01-21": 1440,
       "2022-01-20": 1440,
@@ -127,15 +128,14 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 400,
-    "timeDay": 331,
-    "timeWeek": 254,
+    "timeDay": 377,
+    "timeWeek": 252,
     "timeMonth": 336,
     "timeYear": 400,
     "dailyMinutesDown": {
       "2021-10-19": 73,
       "2021-05-14": 16,
-      "2021-01-25": 2,
-      "2021-01-24": 122
+      "2021-01-25": 2
     }
   }
 ]
