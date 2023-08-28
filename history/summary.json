@@ -34,7 +34,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-08-28": 879,
+      "2023-08-28": 890,
       "2023-08-27": 1440,
       "2023-08-26": 1440,
       "2023-08-25": 1440,
@@ -406,19 +406,19 @@
     "url": "https://theprogrammershangout.com",
     "icon": "https://icons.duckduckgo.com/ip3/theprogrammershangout.com.ico",
     "slug": "the-programmer-s-hangout",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "94.42%",
-    "uptimeWeek": "99.20%",
-    "uptimeMonth": "99.72%",
-    "uptimeYear": "99.98%",
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "93.68%",
+    "uptimeWeek": "99.10%",
+    "uptimeMonth": "99.69%",
+    "uptimeYear": "99.97%",
     "time": 331,
-    "timeDay": 270,
-    "timeWeek": 318,
+    "timeDay": 275,
+    "timeWeek": 315,
     "timeMonth": 284,
     "timeYear": 320,
     "dailyMinutesDown": {
-      "2023-08-28": 81,
+      "2023-08-28": 92,
       "2023-08-08": 44
     }
   }
