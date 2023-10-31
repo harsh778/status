@@ -23,7 +23,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/harsh.cf.ico",
     "slug": "v1-of-personal-website",
     "status": "down",
-    "uptime": "32.33%",
+    "uptime": "32.32%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -34,7 +34,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-10-31": 34,
+      "2023-10-31": 470,
       "2023-10-30": 1440,
       "2023-10-29": 1440,
       "2023-10-28": 1440,
@@ -406,9 +406,9 @@
     "url": "https://theprogrammershangout.com",
     "icon": "https://icons.duckduckgo.com/ip3/theprogrammershangout.com.ico",
     "slug": "the-programmer-s-hangout",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.97%",
@@ -418,6 +418,7 @@
     "timeMonth": 277,
     "timeYear": 303,
     "dailyMinutesDown": {
+      "2023-10-31": 0,
       "2023-10-03": 16,
       "2023-08-28": 81,
       "2023-08-08": 44
