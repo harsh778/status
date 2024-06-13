@@ -4,19 +4,19 @@
     "url": "https://harsh778.github.io",
     "icon": "https://icons.duckduckgo.com/ip3/harsh778.github.io.ico",
     "slug": "harsh-vardhan-singhal",
-    "status": "down",
+    "status": "up",
     "uptime": "99.86%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.59%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
     "time": 91,
-    "timeDay": 698,
-    "timeWeek": 229,
-    "timeMonth": 107,
-    "timeYear": 90,
+    "timeDay": 487,
+    "timeWeek": 211,
+    "timeMonth": 105,
+    "timeYear": 89,
     "dailyMinutesDown": {
-      "2024-06-13": 0
+      "2024-06-13": 20
     }
   },
   {
@@ -36,7 +36,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-06-13": 1017,
+      "2024-06-13": 1037,
       "2024-06-12": 1440,
       "2024-06-11": 1440,
       "2024-06-10": 1440,
