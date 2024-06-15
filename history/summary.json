@@ -6,15 +6,15 @@
     "slug": "harsh-vardhan-singhal",
     "status": "up",
     "uptime": "99.86%",
-    "uptimeDay": "98.59%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.80%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
     "time": 91,
-    "timeDay": 486,
-    "timeWeek": 214,
-    "timeMonth": 106,
-    "timeYear": 90,
+    "timeDay": 82,
+    "timeWeek": 212,
+    "timeMonth": 107,
+    "timeYear": 89,
     "dailyMinutesDown": {
       "2024-06-13": 20
     }
@@ -25,7 +25,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/harsh.cf.ico",
     "slug": "v1-of-personal-website",
     "status": "down",
-    "uptime": "26.63%",
+    "uptime": "26.61%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -36,7 +36,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-06-14": 38,
+      "2024-06-15": 37,
+      "2024-06-14": 1440,
       "2024-06-13": 1440,
       "2024-06-12": 1440,
       "2024-06-11": 1440,
@@ -399,8 +400,7 @@
       "2023-06-20": 1440,
       "2023-06-19": 1440,
       "2023-06-18": 1440,
-      "2023-06-17": 1440,
-      "2023-06-16": 1440
+      "2023-06-17": 1440
     }
   },
   {
@@ -415,8 +415,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 291,
-    "timeDay": 263,
-    "timeWeek": 371,
+    "timeDay": 309,
+    "timeWeek": 394,
     "timeMonth": 324,
     "timeYear": 292,
     "dailyMinutesDown": {
