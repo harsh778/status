@@ -34,7 +34,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-15": 60,
+      "2025-07-15": 288,
       "2025-07-14": 1440,
       "2025-07-13": 1440,
       "2025-07-12": 1440,
@@ -406,9 +406,9 @@
     "url": "https://theprogrammershangout.com",
     "icon": "https://icons.duckduckgo.com/ip3/theprogrammershangout.com.ico",
     "slug": "the-programmer-s-hangout",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -417,6 +417,8 @@
     "timeWeek": 310,
     "timeMonth": 342,
     "timeYear": 323,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-07-15": 0
+    }
   }
 ]
