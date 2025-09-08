@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 109,
-    "timeDay": 139,
-    "timeWeek": 96,
-    "timeMonth": 118,
+    "timeDay": 167,
+    "timeWeek": 108,
+    "timeMonth": 121,
     "timeYear": 114,
     "dailyMinutesDown": {}
   },
@@ -23,7 +23,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/harsh.cf.ico",
     "slug": "v1-of-personal-website",
     "status": "down",
-    "uptime": "19.74%",
+    "uptime": "19.73%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -34,7 +34,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-09-07": 55,
+      "2025-09-08": 53,
+      "2025-09-07": 1440,
       "2025-09-06": 1440,
       "2025-09-05": 1440,
       "2025-09-04": 1440,
@@ -397,8 +398,7 @@
       "2024-09-12": 1440,
       "2024-09-11": 1440,
       "2024-09-10": 1440,
-      "2024-09-09": 1440,
-      "2024-09-08": 1440
+      "2024-09-09": 1440
     }
   },
   {
@@ -413,9 +413,9 @@
     "uptimeMonth": "99.56%",
     "uptimeYear": "98.47%",
     "time": 336,
-    "timeDay": 305,
-    "timeWeek": 322,
-    "timeMonth": 277,
+    "timeDay": 339,
+    "timeWeek": 336,
+    "timeMonth": 275,
     "timeYear": 333,
     "dailyMinutesDown": {
       "2025-08-15": 192,
