@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 116,
-    "timeDay": 80,
-    "timeWeek": 143,
-    "timeMonth": 125,
+    "timeDay": 126,
+    "timeWeek": 125,
+    "timeMonth": 120,
     "timeYear": 120,
     "dailyMinutesDown": {}
   },
@@ -23,7 +23,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/harsh.cf.ico",
     "slug": "v1-of-personal-website",
     "status": "down",
-    "uptime": "18.43%",
+    "uptime": "18.42%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -34,7 +34,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-08": 59,
+      "2026-01-09": 60,
+      "2026-01-08": 1440,
       "2026-01-07": 1440,
       "2026-01-06": 1440,
       "2026-01-05": 1440,
@@ -397,8 +398,7 @@
       "2025-01-13": 1440,
       "2025-01-12": 1440,
       "2025-01-11": 1440,
-      "2025-01-10": 1440,
-      "2025-01-09": 1440
+      "2025-01-10": 1440
     }
   },
   {
@@ -408,14 +408,14 @@
     "slug": "the-programmer-s-hangout",
     "status": "up",
     "uptime": "99.67%",
-    "uptimeDay": "97.76%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.68%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "98.45%",
     "time": 336,
-    "timeDay": 1091,
-    "timeWeek": 498,
-    "timeMonth": 393,
+    "timeDay": 169,
+    "timeWeek": 501,
+    "timeMonth": 387,
     "timeYear": 340,
     "dailyMinutesDown": {
       "2026-01-07": 32,
