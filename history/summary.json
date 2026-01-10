@@ -34,7 +34,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-10": 58,
+      "2026-01-10": 1012,
       "2026-01-09": 1440,
       "2026-01-08": 1440,
       "2026-01-07": 1440,
@@ -406,9 +406,9 @@
     "url": "https://theprogrammershangout.com",
     "icon": "https://icons.duckduckgo.com/ip3/theprogrammershangout.com.ico",
     "slug": "the-programmer-s-hangout",
-    "status": "up",
+    "status": "down",
     "uptime": "99.67%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.68%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "98.45%",
@@ -418,6 +418,7 @@
     "timeMonth": 385,
     "timeYear": 340,
     "dailyMinutesDown": {
+      "2026-01-10": 0,
       "2026-01-07": 32,
       "2025-11-28": 28,
       "2025-10-02": 19,
